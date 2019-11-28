@@ -1,0 +1,7 @@
+{
+    "port": 3434,
+    "host": "localhost",
+    "database": "dac",
+    "user": "root",
+    "password": "manager"
+}
